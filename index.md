@@ -12,7 +12,7 @@
       <p><b>地址：广西北海</b></p>
     </td>
     <td width="25%">
-      <img src="/QQ图片20201124195904.jpg" width="100%">      % 插入证件照代码
+      <img src="/QQ图片20201124195904.jpg" width="100%">      % https://github.com/LiuYuanJun186/LiuYuanJun186.github.io.git
     </td>
   </tr>
 </tbody></table>
